@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{9689280B-A7DC-470A-80EC-E4C303B4628C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{469F2B54-445B-4A3C-AE22-486C7749E3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9689280B-A7DC-470A-80EC-E4C303B4628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9689280B-A7DC-470A-80EC-E4C303B4628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9689280B-A7DC-470A-80EC-E4C303B4628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9689280B-A7DC-470A-80EC-E4C303B4628C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469F2B54-445B-4A3C-AE22-486C7749E3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469F2B54-445B-4A3C-AE22-486C7749E3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469F2B54-445B-4A3C-AE22-486C7749E3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469F2B54-445B-4A3C-AE22-486C7749E3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568667E8-385D-42F8-B8C7-65BE798DA009}
+	EndGlobalSection
+EndGlobal
