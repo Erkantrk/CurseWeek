@@ -5,13 +5,13 @@
         static void Main(string[] args)
         {
 
-            int a = 5;
-            int b = ++a;
-            int c = a++;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.WriteLine(c);
-            Console.WriteLine(a);
+            //int a = 5;
+            //int b = ++a;
+            //int c = a++;
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Console.WriteLine(c);
+            //Console.WriteLine(a);
             //Optional Parameters (İsteğe Bağlı Parametreler): Bir mağazaya gittiğinizi düşünün. 
             //Bir bilgisayar alıyorsunuz, bilgisayarın adı ve fiyatını biliyorsunuz, ama kategori kısmını belirtmeden de alabilirsiniz, 
             //çünkü varsayılan olarak "Bilgisayar" kategorisine giriyor. Bu isteğe bağlı bir bilgidir. Eğer siz kategori belirtmezseniz, sistem otomatik olarak varsayılan değeri alır.
